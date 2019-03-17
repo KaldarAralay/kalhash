@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+#Version 0.2.0
+#Sean Frazier Sean12111@gmail.com
+
 print(" __  _   ____  _      __ __   ____  _____ __ __ ")
 print("|  |/ ] /    || |    |  |  | /    |/ ___/|  |  |")
 print("|  ' / |  o  || |    |  |  ||  o  (   \_ |  |  |")
